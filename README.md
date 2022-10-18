@@ -1,2 +1,11 @@
 # Sprint-9.-Analisi-de-sentiment-i-textos
- Quan no tenim les dades amb arxius o base de dades, ni ens faciliten una API per obtenir-les, una manera de recollir les dades és 'rascant la web' o realitzant web scraping. En aquest sprint ho podràs practicar fent web scraping en diferents webs i utilitzant diferents llibreries per aquesta finalitat.
+Una gran part de les dades que podem trobar per analitzar utilitzant l'aprenentatge automàtic és text lliure. En aquest sprint veurem com analitzar-lo, netejar-lo i realitzar anàlisi de sentiments.
+
+Objectius generals
+    
+    Conèixer les tècniques d'anàlisi de sentiment i textos.
+    
+
+Objectius específics
+      
+   Aplicar tècniques per identificar el sentiment dels textos. 
